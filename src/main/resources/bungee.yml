@@ -1,0 +1,8 @@
+name: NasquiFakePlugins
+version: '${project.version}'
+main: com.nasquicode.nasquifakeplugins.NasquiFakePlugins
+author: Bletzzi
+description: Crie mensagens fakes para o /plugins
+commands:
+  nasquifakeplugins:
+    aliases: [fakeplugins, fakepl, fakeplugin, nasquifakepl, nasquifakepls]

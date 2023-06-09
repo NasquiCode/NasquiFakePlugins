@@ -1,0 +1,11 @@
+servers: # Lista de servidores
+  lobby: # Nome do servidor
+    message: "&fPlugins (2): &aLobby &f, &aTags" # Mensagem enviada ao executar o comando
+  bedwars: # Nome do servidor
+    message: "&fPlugins (3): &aBedwars&f, &aTags&f, &aPVP" # Mensagem enviada ao executar o comando
+bypass_permission: "nasquifakeplugins.bypass" # Permissão necessária para bypass
+commands: # Lista de comandos
+  - "pl"
+  - "plugins"
+  - "bukkit:pl"
+  - "bukkit:plugins"
